@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-<TITLE> Fast and accurate evaluation of geomagnetic quantities</TITLE>
 <META NAME="Author" CONTENT="Kamen">
 </head>
 
@@ -18,7 +17,7 @@
 
 <font face="Times" size="+0">
 <font size="+2">
-<p> Overview
+<p> <p> Overview
 </font>
 
 <p> We present FORTRAN and MATLAB software for fast and accurate evaluation of
